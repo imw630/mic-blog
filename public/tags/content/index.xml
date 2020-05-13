@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>内容 - 标签 - Micw&#39;s Site</title>
+        <link>https://www.micnb.com/tags/content/</link>
+        <description>内容 - 标签 - Micw&#39;s Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>mxtxwqb@qq.com (Micheal Wang)</managingEditor>
+            <webMaster>mxtxwqb@qq.com (Micheal Wang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://www.micnb.com/tags/content/" rel="self" type="application/rss+xml" /></channel>
+</rss>

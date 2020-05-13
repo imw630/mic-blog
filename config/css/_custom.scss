@@ -1,0 +1,16 @@
+// ==============================
+// Custom style
+// 自定义样式
+// ==============================
+@import url('https://fonts.googleapis.com/css?family=Fira+Mono:400,700&display=swap&subset=latin-ext');
+$code-font-family: Monaco, Fira Mono, Source Code Pro, Menlo, Consolas, monospace;
+
+.mic-logo {
+    background-image: url(/logo.png) center no-repeat;
+    width: 20px;
+    height: 20px;
+}
+
+.logo, .header-title-pre {
+    vertical-align: middle;
+}
