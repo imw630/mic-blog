@@ -1,0 +1,16 @@
+{
+  "name": "mic-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "atomic-algolia": "^0.3.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "algolia": "atomic-algolia",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
